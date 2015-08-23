@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimingTests", "TimingTests\TimingTests.csproj", "{F68CB653-EB2E-42FE-88CA-5DD04191211E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68CB653-EB2E-42FE-88CA-5DD04191211E}.Debug|Zune.ActiveCfg = Debug|Zune
+		{F68CB653-EB2E-42FE-88CA-5DD04191211E}.Debug|Zune.Build.0 = Debug|Zune
+		{F68CB653-EB2E-42FE-88CA-5DD04191211E}.Debug|Zune.Deploy.0 = Debug|Zune
+		{F68CB653-EB2E-42FE-88CA-5DD04191211E}.Release|Zune.ActiveCfg = Release|Zune
+		{F68CB653-EB2E-42FE-88CA-5DD04191211E}.Release|Zune.Build.0 = Release|Zune
+		{F68CB653-EB2E-42FE-88CA-5DD04191211E}.Release|Zune.Deploy.0 = Release|Zune
+		{2E4FDE0D-D77E-407D-B5AF-A6B647253B18}.Debug|Zune.ActiveCfg = Debug|Zune
+		{2E4FDE0D-D77E-407D-B5AF-A6B647253B18}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

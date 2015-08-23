@@ -1,0 +1,14 @@
+C:\Visual Studio 2008\Projects\ZuneConsole\ZuneConsole\bin\Zune\Debug\ZuneConsole.exe
+C:\Visual Studio 2008\Projects\ZuneConsole\ZuneConsole\bin\Zune\Debug\ZuneConsole.pdb
+C:\Visual Studio 2008\Projects\ZuneConsole\ZuneConsole\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio 2008\Projects\ZuneConsole\ZuneConsole\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Visual Studio 2008\Projects\ZuneConsole\ZuneConsole\obj\Zune\Debug\ZuneConsole.exe
+C:\Visual Studio 2008\Projects\ZuneConsole\ZuneConsole\obj\Zune\Debug\ZuneConsole.pdb
+C:\Visual Studio 2008\Projects\ZuneConsole\ZuneConsole\bin\Zune\Debug\Content\arial.xnb
+C:\Visual Studio 2008\Projects\zune-utilities\ZuneConsole\ZuneConsole\bin\Zune\Debug\Content\arial.xnb
+C:\Visual Studio 2008\Projects\zune-utilities\ZuneConsole\ZuneConsole\bin\Zune\Debug\ZuneConsole.exe
+C:\Visual Studio 2008\Projects\zune-utilities\ZuneConsole\ZuneConsole\bin\Zune\Debug\ZuneConsole.pdb
+C:\Visual Studio 2008\Projects\zune-utilities\ZuneConsole\ZuneConsole\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio 2008\Projects\zune-utilities\ZuneConsole\ZuneConsole\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Visual Studio 2008\Projects\zune-utilities\ZuneConsole\ZuneConsole\obj\Zune\Debug\ZuneConsole.exe
+C:\Visual Studio 2008\Projects\zune-utilities\ZuneConsole\ZuneConsole\obj\Zune\Debug\ZuneConsole.pdb

@@ -1,0 +1,2 @@
+C:\Visual Studio 2008\Projects\TimingTests\TimingTests\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio 2008\Projects\zune-utilities\Tests\TimingTests\TimingTests\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
